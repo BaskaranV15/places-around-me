@@ -119,10 +119,10 @@ school.html
 ## Output:
 Include your output screenshot here
 ![output](places.png)
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
+![output](ulagalanda.png)
+![output](school.png)
+![output](sivan.png)
+![output](kabiler.png)
+![output](bustand.png)
 ## Result:
 Write your result
