@@ -102,12 +102,23 @@ The temple was originally made of bricks, but during the period of Virarajendra 
         </body>
  
 school.html
-
+<html>
+    <head>
+        <title>SRI GNANANANDA MATRICULATION HIGHER SECONDARY SCHOOL</title>
+    </head>
+    <body>
+        <h1>SRI GNANANANDA MATRICULATION HIGHER SECONDARY SCHOOL</h1>
+        <h1> since 1983 very famous school arrount seroundind area</h1>
+        <h1>This school is famous in thirukovilur. All the students spoke in english with everyone. Good quality teachers are available. Swiming pool training is given to the students.</h1>
+        <h1>good for sports</h1>
+    </body>
+    </html>
     
 ```        
 
 ## Output:
 Include your output screenshot here
+
 
 ## Result:
 Write your result
