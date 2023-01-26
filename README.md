@@ -118,7 +118,11 @@ school.html
 
 ## Output:
 Include your output screenshot here
-
-
+![output](places.png)
+![output]()
+![output]()
+![output]()
+![output]()
+![output]()
 ## Result:
 Write your result
